@@ -8,7 +8,7 @@
     "ranked": false,
     "talents": false,
     "draft": false,
-    "draftSkillTierRequirement": null,
+    "draftSkillTierRequirement": null
   },
   "ranked3v3": {
     "name": "3v3 Ranked",
@@ -19,7 +19,7 @@
     "ranked": true,
     "talents": false,
     "draft": true,
-    "draftSkillTierRequirement": 21,
+    "draftSkillTierRequirement": 21
   },
   "private3v3": {
     "name": "3v3 Private",
@@ -30,7 +30,7 @@
     "ranked": false,
     "talents": false,
     "draft": false,
-    "draftSkillTierRequirement": null,
+    "draftSkillTierRequirement": null
   },
   "privateDraft3v3": {
     "name": "3v3 Private Draft",
@@ -41,7 +41,7 @@
     "ranked": false,
     "talents": false,
     "draft": true,
-    "draftSkillTierRequirement": 0,
+    "draftSkillTierRequirement": 0
   },
   "blitz": {
     "name": "Blitz",
@@ -52,7 +52,7 @@
     "ranked": true,
     "talents": true,
     "draft": false,
-    "draftSkillTierRequirement": null,
+    "draftSkillTierRequirement": null
   },
   "privateBlitz": {
     "name": "Blitz Private",
@@ -63,7 +63,7 @@
     "ranked": false,
     "talents": true,
     "draft": false,
-    "draftSkillTierRequirement": null,
+    "draftSkillTierRequirement": null
   },
   "battleRoyale": {
     "name": "Battle Royale",
@@ -74,7 +74,7 @@
     "ranked": false
     "talents": true,
     "draft": false,
-    "draftSkillTierRequirement": null,
+    "draftSkillTierRequirement": null
   },
   "privateBattleRoyale": {
     "name": "Battle Royale Private",
@@ -86,7 +86,7 @@
     "ranked": false
     "talents": true,
     "draft": false,
-    "draftSkillTierRequirement": null,
+    "draftSkillTierRequirement": null
   },
   "ranked5v5": {
     "name": "5v5 Ranked",
@@ -97,7 +97,7 @@
     "ranked": true,
     "talents": false,
     "draft": true,
-    "draftSkillTierRequirement": 0,
+    "draftSkillTierRequirement": 0
   },
   "casual5v5": {
     "name": "5v5 Casual",
@@ -107,7 +107,7 @@
     "public": true,
     "talents": false,
     "draft": false,
-    "draftSkillTierRequirement": null,
+    "draftSkillTierRequirement": null
   },
   "private5v5": {
     "name": "5v5 Private",
@@ -117,6 +117,6 @@
     "public": false,
     "talents": false,
     "draft": true,
-    "draftSkillTierRequirement": 0,
+    "draftSkillTierRequirement": 0
   }
 }
