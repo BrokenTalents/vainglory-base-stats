@@ -71,7 +71,7 @@
     "playerCount": 6,
     "map": "Halcyon Fold Battle Royale",
     "public": true,
-    "ranked": false
+    "ranked": false,
     "talents": true,
     "draft": false,
     "draftSkillTierRequirement": null
@@ -83,7 +83,7 @@
     "playerCount": 6,
     "map": "Halcyon Fold Battle Royale",
     "public": false,
-    "ranked": false
+    "ranked": false,
     "talents": true,
     "draft": false,
     "draftSkillTierRequirement": null
